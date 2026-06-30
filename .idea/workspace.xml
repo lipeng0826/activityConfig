@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/API接口文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/DTO数据传输对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/注册请求DTO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/用户信息视图对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/登录请求DTO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/业务逻辑层.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/JWT认证机制.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/Spring Security配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/安全配置模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/用户详情服务.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/代码规范与最佳实践.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/开发指南.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/开发环境搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/构建与部署.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/测试策略与实践.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/快速开始.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/初始化数据.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/实体关系设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/数据库设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/数据模型映射.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/表结构设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/Mapper接口设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/关联关系Mapper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/权限Mapper接口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/用户Mapper接口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/角色Mapper接口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/MyBatis-Plus配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/数据映射策略.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/数据访问层.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/RBAC权限模型设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限管理功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限管理模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限验证机制.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/角色管理功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户信息管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户注册功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户登录认证.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户认证模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/分层架构设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/安全架构设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/应用启动流程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/数据访问架构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/系统架构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/统一响应格式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/打包部署.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/环境配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/监控维护.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/部署运维.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/项目概述.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/meta/repowiki-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Modal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Books.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Borrows.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Categories.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Logs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Me.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Register.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Users.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/init.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/BookOrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/annotation/OpLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/aspect/OperationLogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/BusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/DataInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/MyBatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/BorrowController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/RegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/UserInfoVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/BookCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/BorrowRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/OperationLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysRolePermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysUserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BookCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BookMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BorrowRecordMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/OperationLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysPermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysRolePermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysUserRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/SysUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BookCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BorrowService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/OperationLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/SysUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BookCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BorrowServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/OperationLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/SysUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/init-mysql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/init.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookorder/service/BookServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookorder/service/BorrowServiceImplTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lipeng0826"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lipeng0826/activityConfig.git",
+    "accountId": "fbde2e8f-c24b-491d-9108-601c12a7a20f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FqpDA5pum4txpBXzDIugwgoZSd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lipeng/Desktop/myProject/activityConfig",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BookOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="book-order-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bookorder.BookOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="" />
+      <created>1782812332537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782812332537</updated>
+      <workItem from="1782812334674" duration="791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
