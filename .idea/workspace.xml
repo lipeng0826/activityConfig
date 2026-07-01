@@ -4,134 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/API接口文档.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/DTO数据传输对象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/注册请求DTO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/用户信息视图对象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/DTO数据传输对象/登录请求DTO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/业务逻辑层.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/JWT认证机制.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/Spring Security配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/安全配置模块.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/安全配置模块/用户详情服务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/代码规范与最佳实践.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/开发指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/开发环境搭建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/构建与部署.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/开发指南/测试策略与实践.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/快速开始.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/初始化数据.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/实体关系设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/数据库设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/数据模型映射.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据库设计/表结构设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/Mapper接口设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/关联关系Mapper.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/权限Mapper接口.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/用户Mapper接口.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/Mapper接口设计/角色Mapper接口.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/MyBatis-Plus配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/数据映射策略.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/数据访问层/数据访问层.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/RBAC权限模型设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限管理功能.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限管理模块.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/权限验证机制.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/权限管理模块/角色管理功能.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户信息管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户注册功能.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户登录认证.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/用户认证模块/用户认证模块.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/分层架构设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/安全架构设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/应用启动流程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/数据访问架构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/系统架构/系统架构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/统一响应格式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/打包部署.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/环境配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/监控维护.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/部署运维/部署运维.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/content/项目概述.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.qoder/repowiki/zh/meta/repowiki-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Modal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Books.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Borrows.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Categories.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Login.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Logs.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Me.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Register.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Users.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/init.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/BookOrderApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/annotation/OpLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/aspect/OperationLogAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/BusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/common/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/DataInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/MyBatisPlusConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/BookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/BorrowController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/CategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/LogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/dto/UserInfoVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/BookCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/BorrowRecord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/OperationLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysPermission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysRolePermission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/entity/SysUserRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BookCategoryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BookMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/BorrowRecordMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/OperationLogMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysPermissionMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysRolePermissionMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/mapper/SysUserRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/JwtAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/JwtUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/SysUserDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/security/UserDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BookCategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/BorrowService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/OperationLogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/SysUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BookCategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BookServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/BorrowServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/OperationLogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookorder/service/impl/SysUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/init-mysql.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/init.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookorder/service/BookServiceImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookorder/service/BorrowServiceImplTest.java" beforeDir="false" />
+    <list default="true" id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="feat: rebulid project">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,22 +20,81 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lipeng0826"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lipeng0826&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lipeng0826/activityConfig.git",
-    "accountId": "fbde2e8f-c24b-491d-9108-601c12a7a20f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lipeng0826/activityConfig.git&quot;,
+    &quot;accountId&quot;: &quot;fbde2e8f-c24b-491d-9108-601c12a7a20f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0142786164098343" />
+      <entry key="MS500" value="1.4275010889459865" />
+      <entry key="S2" value="1.8086010600218005" />
+      <entry key="S5" value="1.9185307978124198" />
+      <entry key="S10" value="1.9584001240674063" />
+      <entry key="S30" value="1.9859365203957253" />
+      <entry key="S60" value="1.9929433621288402" />
+      <entry key="M2" value="1.9964654344877397" />
+      <entry key="M5" value="1.9985846717840796" />
+      <entry key="M10" value="1.999292085320443" />
+      <entry key="M15" value="1.9995280011801917" />
+      <entry key="M30" value="1.999763975067824" />
+      <entry key="H1" value="2.0001374669708705" />
+      <entry key="H2" value="2.0845158631658744" />
+      <entry key="H4" value="3.5388124515219834" />
+      <entry key="D1" value="19.264862065455375" />
+      <entry key="W1" value="28.131163291813273" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8489733664950827" />
+      <entry key="MS500" value="1.262115477679236" />
+      <entry key="S2" value="1.7285959122607102" />
+      <entry key="S5" value="1.8817094869362165" />
+      <entry key="S10" value="1.9390987263818333" />
+      <entry key="S30" value="1.9792959868119946" />
+      <entry key="S60" value="1.9895966860959853" />
+      <entry key="M2" value="1.9947854509113323" />
+      <entry key="M5" value="1.9979110778538238" />
+      <entry key="M10" value="1.9989550211403642" />
+      <entry key="M15" value="1.9993032323112172" />
+      <entry key="M30" value="1.9996515609169008" />
+      <entry key="H1" value="2.00008125160221" />
+      <entry key="H2" value="2.0844876108567254" />
+      <entry key="H4" value="3.538797091712413" />
+      <entry key="D1" value="19.26485727985482" />
+      <entry key="W1" value="28.13116242880518" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FqpDA5pum4txpBXzDIugwgoZSd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -164,10 +102,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ActivityConfigApplication.executor": "Run",
+    "Spring Boot.BookOrderApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -180,10 +127,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="BookOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="book-order-system" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bookorder.BookOrderApplication" />
+    <configuration name="ActivityConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="activity-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.activity.ActivityConfigApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -197,6 +151,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="逻辑" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="" />
@@ -204,11 +161,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782812332537</updated>
-      <workItem from="1782812334674" duration="791000" />
+      <workItem from="1782812334674" duration="2808000" />
+      <workItem from="1782873792906" duration="384000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: rebulid project">
+      <option name="closed" value="true" />
+      <created>1782813363022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782813363022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: rebulid project">
+      <option name="closed" value="true" />
+      <created>1782813371374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782813371374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: rebulid project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: rebulid project" />
   </component>
 </project>
