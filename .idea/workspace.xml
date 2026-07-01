@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="feat: rebulid project">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1895bbdf-ded1-460f-ad35-1beac6bd1676" name="更改" comment="feat: start project">
+      <change afterPath="$PROJECT_DIR$/活动后端系统搭建方案_task-42c.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +31,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0142786164098343" />
-      <entry key="MS500" value="1.4275010889459865" />
-      <entry key="S2" value="1.8086010600218005" />
-      <entry key="S5" value="1.9185307978124198" />
-      <entry key="S10" value="1.9584001240674063" />
-      <entry key="S30" value="1.9859365203957253" />
-      <entry key="S60" value="1.9929433621288402" />
-      <entry key="M2" value="1.9964654344877397" />
-      <entry key="M5" value="1.9985846717840796" />
-      <entry key="M10" value="1.999292085320443" />
-      <entry key="M15" value="1.9995280011801917" />
-      <entry key="M30" value="1.999763975067824" />
-      <entry key="H1" value="2.0001374669708705" />
-      <entry key="H2" value="2.0845158631658744" />
-      <entry key="H4" value="3.5388124515219834" />
-      <entry key="D1" value="19.264862065455375" />
-      <entry key="W1" value="28.131163291813273" />
+      <entry key="MS100" value="1.0000000613333686" />
+      <entry key="MS500" value="1.0687002370399787" />
+      <entry key="S2" value="2.392345952761884" />
+      <entry key="S5" value="3.614262344111364" />
+      <entry key="S10" value="4.2320229894421235" />
+      <entry key="S30" value="4.725178697953434" />
+      <entry key="S60" value="4.860087773514729" />
+      <entry key="M2" value="4.929406810906415" />
+      <entry key="M5" value="4.971608305234934" />
+      <entry key="M10" value="4.985778288268991" />
+      <entry key="M15" value="4.9905131017053925" />
+      <entry key="M30" value="4.99525367223111" />
+      <entry key="H1" value="4.997881448942326" />
+      <entry key="H2" value="5.083362442233078" />
+      <entry key="H4" value="6.538018077202561" />
+      <entry key="D1" value="22.264337426465893" />
+      <entry key="W1" value="31.13105675066543" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,23 +69,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8489733664950827" />
-      <entry key="MS500" value="1.262115477679236" />
-      <entry key="S2" value="1.7285959122607102" />
-      <entry key="S5" value="1.8817094869362165" />
-      <entry key="S10" value="1.9390987263818333" />
-      <entry key="S30" value="1.9792959868119946" />
-      <entry key="S60" value="1.9895966860959853" />
-      <entry key="M2" value="1.9947854509113323" />
-      <entry key="M5" value="1.9979110778538238" />
-      <entry key="M10" value="1.9989550211403642" />
-      <entry key="M15" value="1.9993032323112172" />
-      <entry key="M30" value="1.9996515609169008" />
-      <entry key="H1" value="2.00008125160221" />
-      <entry key="H2" value="2.0844876108567254" />
-      <entry key="H4" value="3.538797091712413" />
-      <entry key="D1" value="19.26485727985482" />
-      <entry key="W1" value="28.13116242880518" />
+      <entry key="MS100" value="0.9592641769158385" />
+      <entry key="MS500" value="1.0576554637118938" />
+      <entry key="S2" value="2.3610842201135362" />
+      <entry key="S5" value="3.58815738800006" />
+      <entry key="S10" value="4.215240013332538" />
+      <entry key="S30" value="4.718555586302842" />
+      <entry key="S60" value="4.856633001216716" />
+      <entry key="M2" value="4.927642433810876" />
+      <entry key="M5" value="4.970893520619489" />
+      <entry key="M10" value="4.985419377164183" />
+      <entry key="M15" value="4.990273489143496" />
+      <entry key="M30" value="4.995133696458145" />
+      <entry key="H1" value="4.9978214177747065" />
+      <entry key="H2" value="5.083332273314355" />
+      <entry key="H4" value="6.53800175707316" />
+      <entry key="D1" value="22.264332480536353" />
+      <entry key="W1" value="31.131055864738926" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,38 +93,44 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FqpDA5pum4txpBXzDIugwgoZSd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.ActivityConfigApplication.executor": "Run",
-    "Spring Boot.BookOrderApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lipeng/Desktop/myProject/activityConfig",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ActivityConfigApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BookOrderApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lipeng/Desktop/myProject/activityConfig&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -162,7 +165,8 @@
       <option name="presentableId" value="Default" />
       <updated>1782812332537</updated>
       <workItem from="1782812334674" duration="2808000" />
-      <workItem from="1782873792906" duration="384000" />
+      <workItem from="1782873792906" duration="2186000" />
+      <workItem from="1782900007103" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="feat: rebulid project">
       <option name="closed" value="true" />
@@ -180,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782813371374</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: start project">
+      <option name="closed" value="true" />
+      <created>1782874232672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782874232672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +200,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: rebulid project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: rebulid project" />
+    <MESSAGE value="feat: start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: start project" />
   </component>
 </project>
